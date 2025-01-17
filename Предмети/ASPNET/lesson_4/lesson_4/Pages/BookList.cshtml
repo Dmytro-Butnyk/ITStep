@@ -1,0 +1,13 @@
+@page
+@model lesson_4.Pages.BookList
+@{
+    ViewData["Title"] = "BookList";
+}
+
+<div>
+    @foreach (var book in Model.Books)
+    {
+        <p>@book</p>
+    }
+</div>
+

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdOTHtJuTxSqGGFxszGfMYdnwigqmBeMxet04kqbTna1mqA96aPshz9j2x6V88nbZaTHF3QMOzNaxkzaNuDUAg==",
+  "success": true,
+  "projectFilePath": "O:\\ForEdu\\ITStep\\Предмети\\C#\\Home_work\\CSharpExamITStep\\CSharpExamITStep\\CSharpExamITStep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimab\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

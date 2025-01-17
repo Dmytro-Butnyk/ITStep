@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Guess the Number</title>
+</head>
+<body>
+
+<div>
+    <h2>Guess the number:</h2>
+
+    <div>
+        <form action="/guThNuRes" method="post">
+            <label>
+                Enter your number:
+                <input type="text" name="clientNum">
+            </label>
+            <div style="display: flex; gap: 10px; margin: 15px">
+                <input type="submit" value="GUESS">
+            </div>
+        </form>
+    </div>
+    <div style="display: flex; gap: 10px; margin: 15px">
+        <form action="/genNewNum" method="get">
+            <input type="submit" value="GENERATE NEW NUMBER">
+        </form>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\bin\Debug\net8.0\task_2.exe
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\bin\Debug\net8.0\task_2.deps.json
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\bin\Debug\net8.0\task_2.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\bin\Debug\net8.0\task_2.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\bin\Debug\net8.0\task_2.pdb
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\refint\task_2.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.pdb
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\task_2.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\lesson_9\task_2\obj\Debug\net8.0\ref\task_2.dll

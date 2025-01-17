@@ -1,0 +1,42 @@
+@page
+@model lesson_4.Pages.SearchBooks
+@{
+    ViewData["Title"] = "Search Books";
+}
+
+<h1>Search Books</h1>
+
+<div>
+    <form method="post">
+        <div>
+            <input type="radio" id="searchTitle" name="searchBy" value="title" checked/>
+            <label for="searchTitle">Search by title</label>
+        </div>
+        <div>
+            <input type="radio" id="searchYear" name="searchBy" value="year"/>
+            <label for="searchYear">Search by year</label>
+        </div>
+        <div>
+            <input type="radio" id="searchType" name="searchBy" value="type"/>
+            <label for="searchType">Search by type</label>
+        </div>
+        <br/>
+        <input type="text" name="searchQuery"/>
+        <button type="submit">Search</button>
+    </form>
+
+    @if (Model.Books != null && Model.Books.Any())
+    {
+        <h2>Search Results</h2>
+        <ul>
+            @foreach (var book in Model.Books)
+            {
+                <li>@book</li>
+            }
+        </ul>
+    }
+    else if (Model.Books != null)
+    {
+        <p>No results found.</p>
+    }
+</div>

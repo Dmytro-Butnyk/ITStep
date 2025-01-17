@@ -1,0 +1,51 @@
+.main{
+    list-style-type: none;
+    padding: 0;
+    content: counter(list-item);
+    color: rgb(24, 24, 153);
+}
+
+.main li::before{
+
+    list-style-type: none;
+    content: counter(list-item, upper-roman) ".";
+    padding: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+.num{
+    
+    list-style-type: none;
+    content: counter(list-item);
+    color: rgb(24, 24, 153);
+
+}
+
+.num li::before {
+    
+    
+    content: counter(list-item) ".";
+    padding: 5px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.let{
+    
+    list-style-type: none;
+    content: counter(list-item);
+    color: rgb(24, 24, 153);
+
+}
+
+.let li::before {
+    
+    
+    content: counter(list-item, lower-alpha) ".";
+    padding: 5px;
+    font-weight: bold;
+    color: black;
+
+}

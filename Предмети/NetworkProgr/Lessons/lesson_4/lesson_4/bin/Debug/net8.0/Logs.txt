@@ -1,0 +1,7 @@
+SERVER STARTED, TIME: 18.04.2024 20:03:22Client connected: 127.0.0.1:55254, Time: 18.04.2024 20:03:22
+Received request: rf
+Received request: CPU
+Received request: RAM
+Received request: END
+Client disconnected 127.0.0.1:55254, Time: 18.04.2024 20:03:57
+SERVER STARTED, TIME: 18.04.2024 20:06:56

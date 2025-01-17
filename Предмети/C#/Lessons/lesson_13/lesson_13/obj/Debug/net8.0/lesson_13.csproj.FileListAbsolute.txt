@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\bin\Debug\net8.0\lesson_13.exe
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\bin\Debug\net8.0\lesson_13.deps.json
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\bin\Debug\net8.0\lesson_13.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\bin\Debug\net8.0\lesson_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\bin\Debug\net8.0\lesson_13.pdb
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\refint\lesson_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.pdb
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\lesson_13.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_13\lesson_13\obj\Debug\net8.0\ref\lesson_13.dll

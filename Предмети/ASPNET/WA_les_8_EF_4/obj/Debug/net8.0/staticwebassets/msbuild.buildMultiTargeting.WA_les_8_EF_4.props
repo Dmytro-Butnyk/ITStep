@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WA_les_8_EF_4.props" />
+</Project>

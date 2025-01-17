@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WA_EF_3_04.10.props" />
+</Project>

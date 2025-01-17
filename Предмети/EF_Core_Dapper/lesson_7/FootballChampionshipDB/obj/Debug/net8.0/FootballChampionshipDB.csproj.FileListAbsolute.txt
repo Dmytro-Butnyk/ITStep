@@ -1,0 +1,11 @@
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\bin\Debug\net8.0\FootballChampionshipDB.deps.json
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\bin\Debug\net8.0\FootballChampionshipDB.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\bin\Debug\net8.0\FootballChampionshipDB.pdb
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\refint\FootballChampionshipDB.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\FootballChampionshipDB.pdb
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\lesson_7\FootballChampionshipDB\obj\Debug\net8.0\ref\FootballChampionshipDB.dll

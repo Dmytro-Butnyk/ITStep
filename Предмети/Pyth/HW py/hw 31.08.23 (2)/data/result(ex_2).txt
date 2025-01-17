@@ -1,0 +1,5 @@
+Count of symvols: 78
+Count of rows: 6
+Count of golosnyh letters: 29
+Count of prygolosnyh letters: 49
+Count of digits: 44

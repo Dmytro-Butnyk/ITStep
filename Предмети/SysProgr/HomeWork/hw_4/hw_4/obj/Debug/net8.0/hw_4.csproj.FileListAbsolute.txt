@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\bin\Debug\net8.0\hw_4.exe
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\bin\Debug\net8.0\hw_4.deps.json
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\bin\Debug\net8.0\hw_4.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\bin\Debug\net8.0\hw_4.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\bin\Debug\net8.0\hw_4.pdb
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\refint\hw_4.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.pdb
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\hw_4.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_4\hw_4\obj\Debug\net8.0\ref\hw_4.dll

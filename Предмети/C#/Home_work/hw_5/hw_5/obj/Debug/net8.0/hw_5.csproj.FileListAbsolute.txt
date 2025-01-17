@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\bin\Debug\net8.0\hw_5.exe
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\bin\Debug\net8.0\hw_5.deps.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\bin\Debug\net8.0\hw_5.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\bin\Debug\net8.0\hw_5.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\bin\Debug\net8.0\hw_5.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\refint\hw_5.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\hw_5.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_5\hw_5\obj\Debug\net8.0\ref\hw_5.dll

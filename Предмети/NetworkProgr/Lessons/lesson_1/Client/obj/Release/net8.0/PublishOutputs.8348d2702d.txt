@@ -1,0 +1,5 @@
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\Client\bin\Release\net8.0\app.publish\Client.exe
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\Client\bin\Release\net8.0\app.publish\Client.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\Client\bin\Release\net8.0\app.publish\Client.deps.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\Client\bin\Release\net8.0\app.publish\Client.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\Client\bin\Release\net8.0\app.publish\Client.pdb

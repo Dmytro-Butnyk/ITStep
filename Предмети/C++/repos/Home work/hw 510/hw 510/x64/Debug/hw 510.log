@@ -1,0 +1,3 @@
+﻿  hw 510.cpp
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw 510\hw 510\hw 510.cpp(107,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hw 510.vcxproj -> D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw 510\x64\Debug\hw 510.exe

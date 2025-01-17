@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\bin\Debug\net8.0\ChildProcess.exe
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\bin\Debug\net8.0\ChildProcess.deps.json
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\bin\Debug\net8.0\ChildProcess.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\bin\Debug\net8.0\ChildProcess.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\bin\Debug\net8.0\ChildProcess.pdb
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\refint\ChildProcess.dll
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.pdb
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ChildProcess.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\SysProgr\HomeWork\hw_1\ChildProcess\obj\Debug\net8.0\ref\ChildProcess.dll

@@ -1,0 +1,5 @@
+﻿  hw_1709.cpp
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_1709\hw_1709\hw_1709.cpp(222,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_1709\hw_1709\hw_1709.cpp(270,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_1709\hw_1709\hw_1709.cpp(276,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  hw_1709.vcxproj -> D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_1709\x64\Debug\hw_1709.exe

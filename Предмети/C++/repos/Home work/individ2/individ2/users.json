@@ -1,0 +1,48 @@
+[
+  {
+    "cards": [
+      {
+        "balance": -6225.0,
+        "transactions": {
+          "Days": [],
+          "Months": [],
+          "Weeks": [
+            2836.0,
+            18389.0
+          ]
+        },
+        "type": "Credit"
+      },
+      {
+        "balance": 0.0,
+        "transactions": {
+          "Days": [],
+          "Months": [],
+          "Weeks": []
+        },
+        "type": "Debit"
+      }
+    ],
+    "id": 1728552006560215,
+    "numberCards": 2,
+    "pinCode": 12345
+  },
+  {
+    "cards": [
+      {
+        "balance": 105.34,
+        "transactions": {
+          "Days": [
+            45.0
+          ],
+          "Months": [],
+          "Weeks": []
+        },
+        "type": "Wallet"
+      }
+    ],
+    "id": 4163234674141203,
+    "numberCards": 1,
+    "pinCode": 12345
+  }
+]

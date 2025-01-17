@@ -1,0 +1,3 @@
+﻿  Lesson_5.cpp
+D:\ForEdu\ITStep\Завдання\C++\repos\Lessons\Lesson_5\Lesson_5\Lesson_5.cpp(43,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Lesson_5.vcxproj -> D:\ForEdu\ITStep\Завдання\C++\repos\Lessons\Lesson_5\x64\Debug\Lesson_5.exe

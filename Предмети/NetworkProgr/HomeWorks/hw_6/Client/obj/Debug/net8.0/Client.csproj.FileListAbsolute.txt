@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\bin\Debug\net8.0\Client.exe
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\bin\Debug\net8.0\Client.deps.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\bin\Debug\net8.0\Client.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\bin\Debug\net8.0\Client.pdb
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\refint\Client.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.pdb
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\HomeWorks\hw_6\Client\obj\Debug\net8.0\ref\Client.dll

@@ -1,0 +1,17 @@
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.csproj.AssemblyReference.cache
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\CSharpExamITStep.exe
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\CSharpExamITStep.deps.json
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\CSharpExamITStep.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\CSharpExamITStep.dll
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\CSharpExamITStep.pdb
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\bin\Debug\net8.0\Newtonsoft.Json.dll
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.csproj.CopyComplete
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.dll
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\refint\CSharpExamITStep.dll
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.pdb
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\CSharpExamITStep.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\C#\Home_work\CSharpExamITStep\CSharpExamITStep\obj\Debug\net8.0\ref\CSharpExamITStep.dll

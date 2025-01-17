@@ -1,0 +1,7 @@
+Client connected: 127.0.0.1:56277, Time: 12.04.2024 20:10:15
+Recieved request from 127.0.0.1:56277: Need quote
+Quote sent: Quote 3
+Recieved request from 127.0.0.1:56277: Need quote
+Quote sent: Quote 2
+Recieved request from 127.0.0.1:56277: End
+Client disconected: 127.0.0.1:56277, Time: 12.04.2024 20:10:24

@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\bin\Debug\net8.0\BookShopDataBase.deps.json
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\bin\Debug\net8.0\BookShopDataBase.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\bin\Debug\net8.0\BookShopDataBase.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\bin\Debug\net8.0\BookShopDataBase.pdb
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.csproj.AssemblyReference.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\refint\BookShopDataBase.dll
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.pdb
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\BookShopDataBase.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\EF_Core_Dapper\BookShopApplication\BookShopDataBase\obj\Debug\net8.0\ref\BookShopDataBase.dll

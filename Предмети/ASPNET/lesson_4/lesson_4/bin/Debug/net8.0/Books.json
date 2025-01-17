@@ -1,0 +1,37 @@
+[
+  {
+    "Title": "Book 1",
+    "AuthorName": "Author 1",
+    "Type": 0,
+    "PublishDate": "2022-01-01",
+    "Price": 0
+  },
+  {
+    "Title": "Book 2",
+    "AuthorName": "Author 2",
+    "Type": 1,
+    "PublishDate": "2022-02-01",
+    "Price": 1
+  },
+  {
+    "Title": "Book 3",
+    "AuthorName": "Author 3",
+    "Type": 2,
+    "PublishDate": "2022-03-01",
+    "Price": 2
+  },
+  {
+    "Title": "Book 4",
+    "AuthorName": "Author 4",
+    "Type": 3,
+    "PublishDate": "2022-04-01",
+    "Price": 3
+  },
+  {
+    "Title": "Book 5",
+    "AuthorName": "Author 5",
+    "Type": 4,
+    "PublishDate": "2022-05-01",
+    "Price": 4
+  }
+]

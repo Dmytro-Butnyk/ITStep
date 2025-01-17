@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson_6", "lesson_6\lesson_6.csproj", "{CD676DED-89FB-49B1-8D19-A1EFAB01F0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployerSystemBDLibrary", "EmployerSystemBDLibrary\EmployerSystemBDLibrary.csproj", "{F01074D9-3616-4DD4-8695-6DAB7D677746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD676DED-89FB-49B1-8D19-A1EFAB01F0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD676DED-89FB-49B1-8D19-A1EFAB01F0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD676DED-89FB-49B1-8D19-A1EFAB01F0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD676DED-89FB-49B1-8D19-A1EFAB01F0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01074D9-3616-4DD4-8695-6DAB7D677746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01074D9-3616-4DD4-8695-6DAB7D677746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01074D9-3616-4DD4-8695-6DAB7D677746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01074D9-3616-4DD4-8695-6DAB7D677746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3216948A-A315-4611-AD76-0B4FD8D75D1C}
+	EndGlobalSection
+EndGlobal

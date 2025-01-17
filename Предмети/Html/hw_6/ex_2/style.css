@@ -1,0 +1,50 @@
+body{  width: 1200px;
+    margin:10px auto;
+}
+.main{
+  position: relative;
+    overflow: hidden;
+}
+.left-block ,.right-block{
+    height: 200px;
+    width: calc(100% / 2 - 9.8px);
+    background-color: rgb(76, 43, 107);
+    border: 5px solid rgb(31, 2, 48);
+    transform: scaleX(1);
+    
+}
+.left-block{
+    float: left;
+    transform-origin: 0% 50%;
+}
+.right-block{
+    float: right;
+    transform-origin: 100% 50%;
+}
+
+.text {
+    position: absolute;
+    font-size: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    opacity: 0; 
+    transition: opacity 1s ease-out;  
+    
+}
+
+@keyframes scaleBoth {
+to {
+    transform: scaleX(0.3);
+    }
+
+}
+
+.main:hover .left-block,
+.main:hover .right-block {
+    animation: scaleBoth 2s 1 linear  forwards;          
+}
+.main:hover .text {
+    opacity: 1; 
+}
+      

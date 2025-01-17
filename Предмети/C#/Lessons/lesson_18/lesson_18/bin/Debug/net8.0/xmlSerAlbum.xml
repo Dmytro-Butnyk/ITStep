@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Example Album</Title>
+  <Artist>Example Artist</Artist>
+  <ReleaseYear>2022</ReleaseYear>
+  <Duration>PT40M</Duration>
+  <RecordLabel>Example Record Label</RecordLabel>
+  <Songs>
+    <Song>
+      <Title>Song 1</Title>
+      <Style>Rock</Style>
+      <Duration>PT4M</Duration>
+    </Song>
+    <Song>
+      <Title>Song 2</Title>
+      <Style>Pop</Style>
+      <Duration>PT3M30S</Duration>
+    </Song>
+  </Songs>
+</Album>

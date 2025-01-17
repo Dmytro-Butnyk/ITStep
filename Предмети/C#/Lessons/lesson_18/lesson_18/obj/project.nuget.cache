@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLt7yNZ2jMZpPsa6x4lDMToF9SZVyNDj9jSRosfrogb8gAZln3wU7MuedRnY2SkHHOWA5m69uRuyrN+/uNu5eA==",
+  "success": true,
+  "projectFilePath": "O:\\ForEdu\\ITStep\\Завдання\\C#\\Lessons\\lesson_18\\lesson_18\\lesson_18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimab\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\bin\Debug\net8.0\hw_13.exe
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\bin\Debug\net8.0\hw_13.deps.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\bin\Debug\net8.0\hw_13.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\bin\Debug\net8.0\hw_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\bin\Debug\net8.0\hw_13.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\refint\hw_13.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\hw_13.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_13\hw_13\obj\Debug\net8.0\ref\hw_13.dll

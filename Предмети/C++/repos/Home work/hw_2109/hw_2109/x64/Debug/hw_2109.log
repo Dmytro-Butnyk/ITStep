@@ -1,0 +1,5 @@
+﻿  hw_2109.cpp
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_2109\hw_2109\hw_2109.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_2109\hw_2109\hw_2109.cpp(167,16): warning C4154: удаление массива; выполнено преобразование к указателю
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_2109\hw_2109\hw_2109.cpp(189,3): error C2361: пропуск инициализации "aver" из-за метки "default"
+D:\ForEdu\ITStep\Завдання\C++\repos\Home work\hw_2109\hw_2109\hw_2109.cpp(178,11): message : см. объявление "aver"

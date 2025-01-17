@@ -1,0 +1,55 @@
+.main
+{
+list-style-type: none;
+}
+
+.main .main1::before {
+
+content: "\203A";
+font-weight: bold;
+margin-right: 10px;
+}
+
+.winter li
+{
+
+list-style-type: none;
+
+background-image: url("images/winter_16.png");
+background-repeat: no-repeat;
+padding-left: 20px;
+
+}
+
+.spring li
+{
+
+list-style-type: none;
+
+background-image: url("images/spring_16.png");
+background-repeat: no-repeat;
+padding-left: 20px;
+
+}
+
+.summer li
+{
+
+list-style-type: none;
+
+background-image: url("images/summer_16.png");
+background-repeat: no-repeat;
+padding-left: 20px;
+
+}
+
+.autumn li
+{
+
+list-style-type: none;
+
+background-image: url("images/autumn_16.png");
+background-repeat: no-repeat;
+padding-left: 20px;
+
+}

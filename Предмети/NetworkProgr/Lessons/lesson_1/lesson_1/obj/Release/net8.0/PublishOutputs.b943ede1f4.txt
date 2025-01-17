@@ -1,0 +1,5 @@
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\lesson_1\bin\Release\net8.0\publish\lesson_1.exe
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\lesson_1\bin\Release\net8.0\publish\lesson_1.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\lesson_1\bin\Release\net8.0\publish\lesson_1.deps.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\lesson_1\bin\Release\net8.0\publish\lesson_1.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_1\lesson_1\bin\Release\net8.0\publish\lesson_1.pdb

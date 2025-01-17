@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\bin\Debug\net8.0\lesson_8.2.exe
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\bin\Debug\net8.0\lesson_8.2.deps.json
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\bin\Debug\net8.0\lesson_8.2.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\bin\Debug\net8.0\lesson_8.2.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\bin\Debug\net8.0\lesson_8.2.pdb
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\refint\lesson_8.2.dll
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.pdb
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\lesson_8.2.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\C#\Lessons\lesson_8\lesson_8.2\obj\Debug\net8.0\ref\lesson_8.2.dll

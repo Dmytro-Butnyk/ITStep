@@ -1,0 +1,11 @@
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+O:\ForEdu\ITStep\Завдання\SysProgr\Lessons\MyLibrary\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll

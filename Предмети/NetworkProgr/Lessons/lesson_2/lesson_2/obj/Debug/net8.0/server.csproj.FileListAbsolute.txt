@@ -1,0 +1,14 @@
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\bin\Debug\net8.0\server.exe
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\bin\Debug\net8.0\server.deps.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\bin\Debug\net8.0\server.runtimeconfig.json
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\bin\Debug\net8.0\server.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\bin\Debug\net8.0\server.pdb
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.AssemblyInfo.cs
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\refint\server.dll
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.pdb
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\server.genruntimeconfig.cache
+O:\ForEdu\ITStep\Предмети\NetworkProgr\Lessons\lesson_2\lesson_2\obj\Debug\net8.0\ref\server.dll

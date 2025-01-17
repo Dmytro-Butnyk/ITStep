@@ -1,0 +1,17 @@
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\hw_18.exe
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\hw_18.deps.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\hw_18.runtimeconfig.json
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\hw_18.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\hw_18.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\bin\Debug\net8.0\Newtonsoft.Json.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.csproj.AssemblyReference.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.GeneratedMSBuildEditorConfig.editorconfig
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.AssemblyInfoInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.AssemblyInfo.cs
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.csproj.CoreCompileInputs.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.csproj.CopyComplete
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\refint\hw_18.dll
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.pdb
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\hw_18.genruntimeconfig.cache
+O:\ForEdu\ITStep\Завдання\C#\Home_work\hw_18\hw_18\obj\Debug\net8.0\ref\hw_18.dll
